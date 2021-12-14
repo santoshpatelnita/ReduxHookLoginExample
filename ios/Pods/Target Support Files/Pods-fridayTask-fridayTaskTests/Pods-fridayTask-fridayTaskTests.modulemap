@@ -1,0 +1,6 @@
+module Pods_fridayTask_fridayTaskTests {
+  umbrella header "Pods-fridayTask-fridayTaskTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
